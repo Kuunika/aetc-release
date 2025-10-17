@@ -1,0 +1,1 @@
+self.__RSC_SERVER_MANIFEST="{\"node\":{\"409a617e053e13ec4abe301ca9a1abb8b088508d6c\":{\"workers\":{\"app/api/log-client-error/route\":{\"moduleId\":\"36971\",\"async\":false}},\"layer\":{\"app/api/log-client-error/route\":\"rsc\"}}},\"edge\":{},\"encryptionKey\":\"process.env.NEXT_SERVER_ACTIONS_ENCRYPTION_KEY\"}"
