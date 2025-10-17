@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fconfig\u002Fprinters\u002F[id]\u002Fedit","\u002Fconfig\u002Fusers\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
