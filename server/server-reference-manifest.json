@@ -1,0 +1,1 @@
+{"node":{"407efbd4c89853713dc79eb1fc3ed5e06a95c1c433":{"workers":{"app/api/log-client-error/route":{"moduleId":"78650","async":false}},"layer":{"app/api/log-client-error/route":"rsc"},"filename":"app/actions/log-client-error.ts","exportedName":"logClientError"}},"edge":{},"encryptionKey":"0SXZJvs+bQ4gaq64TxJXAw8oSJBN4mqNB/2gNv8A1Zc="}
